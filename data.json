@@ -1,0 +1,529 @@
+{
+    "movie": [
+        {
+            "img_url": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p480747492.jpg",
+            "name": "肖申克的救赎",
+            "score": "9.7",
+            "infro": "导演:弗兰克·德拉邦特FrankDarabont   主演:蒂姆·罗宾斯TimRobbins/...",
+            "img_path": "douban_images\\肖申克的救赎.jpg"
+        },
+        {
+            "img_url": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2911205318.jpg",
+            "name": "霸王别姬",
+            "score": "9.6",
+            "infro": "导演:陈凯歌KaigeChen   主演:张国荣LeslieCheung/张丰毅FengyiZha...",
+            "img_path": "douban_images\\霸王别姬.jpg"
+        },
+        {
+            "img_url": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p457760035.jpg",
+            "name": "泰坦尼克号",
+            "score": "9.5",
+            "infro": "导演:詹姆斯·卡梅隆JamesCameron   主演:莱昂纳多·迪卡普里奥Leonardo...",
+            "img_path": ""
+        },
+        {
+            "img_url": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2500944103.jpg",
+            "name": "阿甘正传",
+            "score": "9.5",
+            "infro": "导演:罗伯特·泽米吉斯RobertZemeckis   主演:汤姆·汉克斯TomHanks/...",
+            "img_path": "douban_images\\阿甘正传.jpg"
+        },
+        {
+            "img_url": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2557573348.jpg",
+            "name": "千与千寻",
+            "score": "9.4",
+            "infro": "导演:宫崎骏HayaoMiyazaki   主演:柊瑠美RumiHîragi/入野自由Miy...",
+            "img_path": "douban_images\\千与千寻.jpg"
+        },
+        {
+            "img_url": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2578474613.jpg",
+            "name": "美丽人生",
+            "score": "9.5",
+            "infro": "导演:罗伯托·贝尼尼RobertoBenigni   主演:罗伯托·贝尼尼RobertoBeni...",
+            "img_path": "douban_images\\美丽人生.jpg"
+        },
+        {
+            "img_url": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2614988097.jpg",
+            "name": "星际穿越",
+            "score": "9.4",
+            "infro": "导演:克里斯托弗·诺兰ChristopherNolan   主演:马修·麦康纳MatthewMc...",
+            "img_path": "douban_images\\星际穿越.jpg"
+        },
+        {
+            "img_url": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2913554676.jpg",
+            "name": "这个杀手不太冷",
+            "score": "9.4",
+            "infro": "导演:吕克·贝松LucBesson   主演:让·雷诺JeanReno/娜塔莉·波特曼...",
+            "img_path": ""
+        },
+        {
+            "img_url": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p513344864.jpg",
+            "name": "盗梦空间",
+            "score": "9.4",
+            "infro": "导演:克里斯托弗·诺兰ChristopherNolan   主演:莱昂纳多·迪卡普里奥Le...",
+            "img_path": ""
+        },
+        {
+            "img_url": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p479682972.jpg",
+            "name": "楚门的世界",
+            "score": "9.4",
+            "infro": "导演:彼得·威尔PeterWeir   主演:金·凯瑞JimCarrey/劳拉·琳妮Lau...",
+            "img_path": "douban_images\\楚门的世界.jpg"
+        },
+        {
+            "img_url": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p492406163.jpg",
+            "name": "辛德勒的名单",
+            "score": "9.5",
+            "infro": "导演:史蒂文·斯皮尔伯格StevenSpielberg   主演:连姆·尼森LiamNeeson...",
+            "img_path": "douban_images\\辛德勒的名单.jpg"
+        },
+        {
+            "img_url": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2587099240.jpg",
+            "name": "忠犬八公的故事",
+            "score": "9.4",
+            "infro": "导演:莱塞·霍尔斯道姆LasseHallström   主演:理查·基尔RichardGer...",
+            "img_path": "douban_images\\忠犬八公的故事.jpg"
+        },
+        {
+            "img_url": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2914698334.jpg",
+            "name": "海上钢琴师",
+            "score": "9.3",
+            "infro": "导演:朱塞佩·托纳多雷GiuseppeTornatore   主演:蒂姆·罗斯TimRoth/...",
+            "img_path": ""
+        },
+        {
+            "img_url": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2924128964.jpg",
+            "name": "疯狂动物城",
+            "score": "9.3",
+            "infro": "导演:拜伦·霍华德ByronHoward/瑞奇·摩尔RichMoore   主演:金妮弗·...",
+            "img_path": ""
+        },
+        {
+            "img_url": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p579729551.jpg",
+            "name": "三傻大闹宝莱坞",
+            "score": "9.2",
+            "infro": "导演:拉库马·希拉尼RajkumarHirani   主演:阿米尔·汗AamirKhan/卡...",
+            "img_path": "douban_images\\三傻大闹宝莱坞.jpg"
+        },
+        {
+            "img_url": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1461851991.jpg",
+            "name": "机器人总动员",
+            "score": "9.3",
+            "infro": "导演:安德鲁·斯坦顿AndrewStanton   主演:本·贝尔特BenBurtt/艾丽...",
+            "img_path": "douban_images\\机器人总动员.jpg"
+        },
+        {
+            "img_url": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2884280708.jpg",
+            "name": "放牛班的春天",
+            "score": "9.3",
+            "infro": "导演:克里斯托夫·巴拉蒂ChristopheBarratier   主演:让-巴蒂斯特·莫尼...",
+            "img_path": "douban_images\\放牛班的春天.jpg"
+        },
+        {
+            "img_url": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2597979873.jpg",
+            "name": "无间道",
+            "score": "9.3",
+            "infro": "导演:刘伟强/麦兆辉   主演:刘德华AndyLau/梁朝伟TonyLeungChiuW...",
+            "img_path": "douban_images\\无间道.jpg"
+        },
+        {
+            "img_url": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2927451337.jpg",
+            "name": "控方证人",
+            "score": "9.6",
+            "infro": "导演:比利·怀尔德BillyWilder   主演:泰隆·鲍华TyronePower/玛琳·...",
+            "img_path": "douban_images\\控方证人.jpg"
+        },
+        {
+            "img_url": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2505426431.jpg",
+            "name": "寻梦环游记",
+            "score": "9.1",
+            "infro": "导演:李·昂克里奇LeeUnkrich/阿德里安·莫利纳AdrianMolina   主演:...",
+            "img_path": "douban_images\\寻梦环游记.jpg"
+        },
+        {
+            "img_url": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2455050536.jpg",
+            "name": "大话西游之大圣娶亲",
+            "score": "9.2",
+            "infro": "导演:刘镇伟JeffreyLau   主演:周星驰StephenChow/吴孟达ManTatNg...",
+            "img_path": ""
+        },
+        {
+            "img_url": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1363250216.jpg",
+            "name": "熔炉",
+            "score": "9.3",
+            "infro": "导演:黄东赫Dong-hyukHwang   主演:孔侑YooGong/郑有美Yu-miJung/...",
+            "img_path": ""
+        },
+        {
+            "img_url": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1454261925.jpg",
+            "name": "触不可及",
+            "score": "9.3",
+            "infro": "导演:奥利维·那卡什OlivierNakache/艾力克·托兰达EricToledano   主...",
+            "img_path": ""
+        },
+        {
+            "img_url": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p616779645.jpg",
+            "name": "教父",
+            "score": "9.3",
+            "infro": "导演:弗朗西斯·福特·科波拉FrancisFordCoppola   主演:马龙·白兰度M...",
+            "img_path": ""
+        },
+        {
+            "img_url": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p452089833.jpg",
+            "name": "末代皇帝",
+            "score": "9.3",
+            "infro": "导演:贝纳尔多·贝托鲁奇BernardoBertolucci   主演:尊龙JohnLone/陈...",
+            "img_path": "douban_images\\末代皇帝.jpg"
+        },
+        {
+            "img_url": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2913781448.jpg",
+            "name": "哈利·波特与魔法石",
+            "score": "9.2",
+            "infro": "导演:ChrisColumbus   主演:DanielRadcliffe/EmmaWatson/RupertGrint",
+            "img_path": "douban_images\\哈利·波特与魔法石.jpg"
+        },
+        {
+            "img_url": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1312700628.jpg",
+            "name": "当幸福来敲门",
+            "score": "9.1",
+            "infro": "导演:加布里尔·穆奇诺GabrieleMuccino   主演:威尔·史密斯WillSmith...",
+            "img_path": "douban_images\\当幸福来敲门.jpg"
+        },
+        {
+            "img_url": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2540924496.jpg",
+            "name": "龙猫",
+            "score": "9.2",
+            "infro": "导演:宫崎骏HayaoMiyazaki   主演:日高法子NorikoHidaka/坂本千夏Ch...",
+            "img_path": ""
+        },
+        {
+            "img_url": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2597919477.jpg",
+            "name": "活着",
+            "score": "9.3",
+            "infro": "导演:张艺谋YimouZhang   主演:葛优YouGe/巩俐LiGong/姜武WuJiang",
+            "img_path": "douban_images\\活着.jpg"
+        },
+        {
+            "img_url": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p501177648.jpg",
+            "name": "怦然心动",
+            "score": "9.1",
+            "infro": "导演:罗伯·莱纳RobReiner   主演:玛德琳·卡罗尔MadelineCarroll/卡...",
+            "img_path": "douban_images\\怦然心动.jpg"
+        },
+        {
+            "img_url": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p462657443.jpg",
+            "name": "蝙蝠侠：黑暗骑士",
+            "score": "9.2",
+            "infro": "导演:克里斯托弗·诺兰ChristopherNolan   主演:克里斯蒂安·贝尔Christ...",
+            "img_path": "douban_images\\蝙蝠侠_黑暗骑士.jpg"
+        },
+        {
+            "img_url": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2642829472.jpg",
+            "name": "指环王3：王者无敌",
+            "score": "9.3",
+            "infro": "导演:彼得·杰克逊PeterJackson   主演:伊利亚·伍德ElijahWood/西恩...",
+            "img_path": "douban_images\\指环王3_王者无敌.jpg"
+        },
+        {
+            "img_url": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2527119568.jpg",
+            "name": "我不是药神",
+            "score": "9.0",
+            "infro": "导演:文牧野MuyeWen   主演:徐峥ZhengXu/王传君ChuanjunWang/周...",
+            "img_path": "douban_images\\我不是药神.jpg"
+        },
+        {
+            "img_url": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1963126880.jpg",
+            "name": "乱世佳人",
+            "score": "9.3",
+            "infro": "导演:维克多·弗莱明VictorFleming/乔治·库克GeorgeCukor   主演:费...",
+            "img_path": "douban_images\\乱世佳人.jpg"
+        },
+        {
+            "img_url": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2553594918.jpg",
+            "name": "飞屋环游记",
+            "score": "9.1",
+            "infro": "导演:彼特·道格特PeteDocter/鲍勃·彼德森BobPeterson   主演:爱德...",
+            "img_path": "douban_images\\飞屋环游记.jpg"
+        },
+        {
+            "img_url": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1512562287.jpg",
+            "name": "让子弹飞",
+            "score": "9.0",
+            "infro": "导演:姜文WenJiang   主演:姜文WenJiang/葛优YouGe/周润发Yun-F...",
+            "img_path": "douban_images\\让子弹飞.jpg"
+        },
+        {
+            "img_url": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2907583906.jpg",
+            "name": "哈尔的移动城堡",
+            "score": "9.1",
+            "infro": "导演:宫崎骏HayaoMiyazaki   主演:倍赏千惠子ChiekoBaishô/木村拓...",
+            "img_path": ""
+        },
+        {
+            "img_url": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2173577632.jpg",
+            "name": "十二怒汉",
+            "score": "9.4",
+            "infro": "导演:西德尼·吕美特SidneyLumet   主演:亨利·方达HenryFonda/马丁...",
+            "img_path": "douban_images\\十二怒汉.jpg"
+        },
+        {
+            "img_url": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2554525534.jpg",
+            "name": "海蒂和爷爷",
+            "score": "9.3",
+            "infro": "导演:阿兰·葛斯彭纳AlainGsponer   主演:阿努克·斯特芬AnukSteffen/...",
+            "img_path": ""
+        },
+        {
+            "img_url": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2118532944.jpg",
+            "name": "素媛",
+            "score": "9.3",
+            "infro": "导演:李濬益Jun-ikLee   主演:薛景求Kyung-guSol/严志媛Ji-wonUhm...",
+            "img_path": ""
+        },
+        {
+            "img_url": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p453924541.jpg",
+            "name": "猫鼠游戏",
+            "score": "9.1",
+            "infro": "导演:史蒂文·斯皮尔伯格StevenSpielberg   主演:莱昂纳多·迪卡普里奥L...",
+            "img_path": "douban_images\\猫鼠游戏.jpg"
+        },
+        {
+            "img_url": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2892409201.jpg",
+            "name": "天空之城",
+            "score": "9.2",
+            "infro": "导演:宫崎骏HayaoMiyazaki   主演:田中真弓MayumiTanaka/横泽启子Ke...",
+            "img_path": "douban_images\\天空之城.jpg"
+        },
+        {
+            "img_url": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p776573640.jpg",
+            "name": "鬼子来了",
+            "score": "9.3",
+            "infro": "导演:姜文WenJiang   主演:姜文WenJiang/香川照之TeruyukiKagawa/...",
+            "img_path": "douban_images\\鬼子来了.jpg"
+        },
+        {
+            "img_url": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2401676338.jpg",
+            "name": "摔跤吧！爸爸",
+            "score": "9.0",
+            "infro": "导演:涅提·蒂瓦里NiteshTiwari   主演:阿米尔·汗AamirKhan/法缇玛...",
+            "img_path": "douban_images\\摔跤吧！爸爸.jpg"
+        },
+        {
+            "img_url": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1784592701.jpg",
+            "name": "少年派的奇幻漂流",
+            "score": "9.1",
+            "infro": "导演:李安AngLee   主演:苏拉·沙玛SurajSharma/伊尔凡·可汗Irrfan...",
+            "img_path": "douban_images\\少年派的奇幻漂流.jpg"
+        },
+        {
+            "img_url": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1381339291.jpg",
+            "name": "钢琴家",
+            "score": "9.3",
+            "infro": "导演:罗曼·波兰斯基RomanPolanski   主演:艾德里安·布洛迪AdrienBrod...",
+            "img_path": "douban_images\\钢琴家.jpg"
+        },
+        {
+            "img_url": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2640236255.jpg",
+            "name": "指环王2：双塔奇兵",
+            "score": "9.2",
+            "infro": "导演:彼得·杰克逊PeterJackson   主演:伊利亚·伍德ElijahWood/西恩...",
+            "img_path": ""
+        },
+        {
+            "img_url": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2575465690.jpg",
+            "name": "死亡诗社",
+            "score": "9.2",
+            "infro": "导演:彼得·威尔PeterWeir   主演:罗宾·威廉姆斯RobinWilliams/罗伯...",
+            "img_path": "douban_images\\死亡诗社.jpg"
+        },
+        {
+            "img_url": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2561721372.jpg",
+            "name": "大话西游之月光宝盒",
+            "score": "9.0",
+            "infro": "导演:刘镇伟JeffreyLau   主演:周星驰StephenChow/吴孟达ManTatNg...",
+            "img_path": "douban_images\\大话西游之月光宝盒.jpg"
+        },
+        {
+            "img_url": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2531065411.jpg",
+            "name": "绿皮书",
+            "score": "8.9",
+            "infro": "导演:彼得·法雷里PeterFarrelly   主演:维果·莫腾森ViggoMortensen/...",
+            "img_path": "douban_images\\绿皮书.jpg"
+        },
+        {
+            "img_url": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p480747492.jpg",
+            "name": "肖申克的救赎",
+            "score": "9.7",
+            "infro": "导演:弗兰克·德拉邦特FrankDarabont   主演:蒂姆·罗宾斯TimRobbins/...",
+            "img_path": "douban_images\\肖申克的救赎.jpg"
+        },
+        {
+            "img_url": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2911205318.jpg",
+            "name": "霸王别姬",
+            "score": "9.6",
+            "infro": "导演:陈凯歌KaigeChen   主演:张国荣LeslieCheung/张丰毅FengyiZha...",
+            "img_path": "douban_images\\霸王别姬.jpg"
+        },
+        {
+            "img_url": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p457760035.jpg",
+            "name": "泰坦尼克号",
+            "score": "9.5",
+            "infro": "导演:詹姆斯·卡梅隆JamesCameron   主演:莱昂纳多·迪卡普里奥Leonardo...",
+            "img_path": ""
+        },
+        {
+            "img_url": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2500944103.jpg",
+            "name": "阿甘正传",
+            "score": "9.5",
+            "infro": "导演:罗伯特·泽米吉斯RobertZemeckis   主演:汤姆·汉克斯TomHanks/...",
+            "img_path": "douban_images\\阿甘正传.jpg"
+        },
+        {
+            "img_url": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2557573348.jpg",
+            "name": "千与千寻",
+            "score": "9.4",
+            "infro": "导演:宫崎骏HayaoMiyazaki   主演:柊瑠美RumiHîragi/入野自由Miy...",
+            "img_path": "douban_images\\千与千寻.jpg"
+        },
+        {
+            "img_url": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2578474613.jpg",
+            "name": "美丽人生",
+            "score": "9.5",
+            "infro": "导演:罗伯托·贝尼尼RobertoBenigni   主演:罗伯托·贝尼尼RobertoBeni...",
+            "img_path": "douban_images\\美丽人生.jpg"
+        },
+        {
+            "img_url": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2614988097.jpg",
+            "name": "星际穿越",
+            "score": "9.4",
+            "infro": "导演:克里斯托弗·诺兰ChristopherNolan   主演:马修·麦康纳MatthewMc...",
+            "img_path": "douban_images\\星际穿越.jpg"
+        },
+        {
+            "img_url": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2913554676.jpg",
+            "name": "这个杀手不太冷",
+            "score": "9.4",
+            "infro": "导演:吕克·贝松LucBesson   主演:让·雷诺JeanReno/娜塔莉·波特曼...",
+            "img_path": ""
+        },
+        {
+            "img_url": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p513344864.jpg",
+            "name": "盗梦空间",
+            "score": "9.4",
+            "infro": "导演:克里斯托弗·诺兰ChristopherNolan   主演:莱昂纳多·迪卡普里奥Le...",
+            "img_path": ""
+        },
+        {
+            "img_url": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p479682972.jpg",
+            "name": "楚门的世界",
+            "score": "9.4",
+            "infro": "导演:彼得·威尔PeterWeir   主演:金·凯瑞JimCarrey/劳拉·琳妮Lau...",
+            "img_path": "douban_images\\楚门的世界.jpg"
+        },
+        {
+            "img_url": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p492406163.jpg",
+            "name": "辛德勒的名单",
+            "score": "9.5",
+            "infro": "导演:史蒂文·斯皮尔伯格StevenSpielberg   主演:连姆·尼森LiamNeeson...",
+            "img_path": "douban_images\\辛德勒的名单.jpg"
+        },
+        {
+            "img_url": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2587099240.jpg",
+            "name": "忠犬八公的故事",
+            "score": "9.4",
+            "infro": "导演:莱塞·霍尔斯道姆LasseHallström   主演:理查·基尔RichardGer...",
+            "img_path": "douban_images\\忠犬八公的故事.jpg"
+        },
+        {
+            "img_url": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2914698334.jpg",
+            "name": "海上钢琴师",
+            "score": "9.3",
+            "infro": "导演:朱塞佩·托纳多雷GiuseppeTornatore   主演:蒂姆·罗斯TimRoth/...",
+            "img_path": ""
+        },
+        {
+            "img_url": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2924128964.jpg",
+            "name": "疯狂动物城",
+            "score": "9.3",
+            "infro": "导演:拜伦·霍华德ByronHoward/瑞奇·摩尔RichMoore   主演:金妮弗·...",
+            "img_path": ""
+        },
+        {
+            "img_url": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p579729551.jpg",
+            "name": "三傻大闹宝莱坞",
+            "score": "9.2",
+            "infro": "导演:拉库马·希拉尼RajkumarHirani   主演:阿米尔·汗AamirKhan/卡...",
+            "img_path": "douban_images\\三傻大闹宝莱坞.jpg"
+        },
+        {
+            "img_url": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1461851991.jpg",
+            "name": "机器人总动员",
+            "score": "9.3",
+            "infro": "导演:安德鲁·斯坦顿AndrewStanton   主演:本·贝尔特BenBurtt/艾丽...",
+            "img_path": "douban_images\\机器人总动员.jpg"
+        },
+        {
+            "img_url": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2884280708.jpg",
+            "name": "放牛班的春天",
+            "score": "9.3",
+            "infro": "导演:克里斯托夫·巴拉蒂ChristopheBarratier   主演:让-巴蒂斯特·莫尼...",
+            "img_path": "douban_images\\放牛班的春天.jpg"
+        },
+        {
+            "img_url": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2597979873.jpg",
+            "name": "无间道",
+            "score": "9.3",
+            "infro": "导演:刘伟强/麦兆辉   主演:刘德华AndyLau/梁朝伟TonyLeungChiuW...",
+            "img_path": "douban_images\\无间道.jpg"
+        },
+        {
+            "img_url": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2927451337.jpg",
+            "name": "控方证人",
+            "score": "9.6",
+            "infro": "导演:比利·怀尔德BillyWilder   主演:泰隆·鲍华TyronePower/玛琳·...",
+            "img_path": "douban_images\\控方证人.jpg"
+        },
+        {
+            "img_url": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2505426431.jpg",
+            "name": "寻梦环游记",
+            "score": "9.1",
+            "infro": "导演:李·昂克里奇LeeUnkrich/阿德里安·莫利纳AdrianMolina   主演:...",
+            "img_path": "douban_images\\寻梦环游记.jpg"
+        },
+        {
+            "img_url": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2455050536.jpg",
+            "name": "大话西游之大圣娶亲",
+            "score": "9.2",
+            "infro": "导演:刘镇伟JeffreyLau   主演:周星驰StephenChow/吴孟达ManTatNg...",
+            "img_path": ""
+        },
+        {
+            "img_url": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1363250216.jpg",
+            "name": "熔炉",
+            "score": "9.3",
+            "infro": "导演:黄东赫Dong-hyukHwang   主演:孔侑YooGong/郑有美Yu-miJung/...",
+            "img_path": ""
+        },
+        {
+            "img_url": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1454261925.jpg",
+            "name": "触不可及",
+            "score": "9.3",
+            "infro": "导演:奥利维·那卡什OlivierNakache/艾力克·托兰达EricToledano   主...",
+            "img_path": ""
+        },
+        {
+            "img_url": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p616779645.jpg",
+            "name": "教父",
+            "score": "9.3",
+            "infro": "导演:弗朗西斯·福特·科波拉FrancisFordCoppola   主演:马龙·白兰度M...",
+            "img_path": ""
+        },
+        {
+            "img_url": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p452089833.jpg",
+            "name": "末代皇帝",
+            "score": "9.3",
+            "infro": "导演:贝纳尔多·贝托鲁奇BernardoBertolucci   主演:尊龙JohnLone/陈...",
+            "img_path": "douban_images\\末代皇帝.jpg"
+        }
+    ]
+}
